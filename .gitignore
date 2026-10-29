@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+ket_qua_du_doan.xlsx
+confusion_matrices_comparison.png
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/credentials.toml
+
